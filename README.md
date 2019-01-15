@@ -1,2 +1,2 @@
 # junit
-PE5
+JUnit Examples
